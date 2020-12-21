@@ -1,2 +1,2 @@
-C++ program including graphics libray:3
+C++ program including graphics libray.
 Rules are discussed in the program
